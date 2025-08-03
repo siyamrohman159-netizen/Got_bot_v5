@@ -1,6 +1,6 @@
 {
   "facebookAccount": {
-    "email": "",
+    "email": "zeronixgrave@gmail.com",
     "password": "",
     "2FASecret": "",
     "i_user": "",
@@ -17,15 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61565898444113",
-    "61573725567297"
+    "100074722578899",
+    "600000023841"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Your_Bot_Name",
+  "nickNameBot": "🎀HONEY🎀",
   "prefix": "/",
   "database": {
     "type": "sqlite",
